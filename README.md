@@ -23,3 +23,5 @@ Also available at `https://obscure-retreat-69161.herokuapp.com` but there is a p
 Front-end to create a get request to backend and expect to get the json format of latitude and longitude:
 
 https://apple-slice-2001.herokuapp.com/predict/pic_5.jpg?crs=9210
+
+{"latitude":10.95082750045397,"longitude":106.58720175464157}
